@@ -1,2 +1,3 @@
 # networking-handbook
-Networking fundamentals
+
+Things a programmer should know about networking.
