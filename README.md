@@ -24,3 +24,11 @@ A computer or device on a network that manages network resources.
 ### url
 A global address of resources on the World Wide Web. Abbreviation of Uniform Resource Location.
 
+## Future terms
+- tcp
+- udp
+- port
+- router
+- dns
+- http
+- smtp
