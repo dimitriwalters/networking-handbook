@@ -3,10 +3,14 @@
 Things a programmer should know about networking.
 
 ## Table of Contents
+- [ip address](#ip-address)
 - [network](#network)
 - [packet](#packet)
 - [server](#server)
 - [url](#url)
+
+### ip address
+An identifier for a computer or device on a TCP/IP network.
 
 ### network
 A group of two or more computers linked together.
