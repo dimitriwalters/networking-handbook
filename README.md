@@ -7,6 +7,7 @@ Things a programmer should know about networking.
 - [network](#network)
 - [packet](#packet)
 - [port](#port)
+- [router](#router)
 - [server](#server)
 - [url](#url)
 
@@ -22,6 +23,9 @@ A unit of data that is routed between an origin and a destination on a packet-sw
 ### port
 An endpoint to a logical connection in TCP/IP and UDP networks.
 
+### router
+A device that forwards data packets along networks.
+
 ### server
 A computer or device on a network that manages network resources.
 
@@ -31,7 +35,6 @@ A global address of resources on the World Wide Web. Abbreviation of Uniform Res
 ## Future terms
 - tcp
 - udp
-- router
 - dns
 - http
 - smtp
