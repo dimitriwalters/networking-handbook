@@ -3,6 +3,7 @@
 Things a programmer should know about networking.
 
 ## Table of Contents
+- [DNS](#dns)
 - [ip address](#ip-address)
 - [network](#network)
 - [packet](#packet)
@@ -10,6 +11,9 @@ Things a programmer should know about networking.
 - [router](#router)
 - [server](#server)
 - [url](#url)
+
+### DNS
+An internet service that translates domain names into IP addresses. Abbreviation of Domain Name System.
 
 ### ip address
 An identifier for a computer or device on a TCP/IP network.
@@ -35,6 +39,5 @@ A global address of resources on the World Wide Web. Abbreviation of Uniform Res
 ## Future terms
 - tcp
 - udp
-- dns
 - http
 - smtp
