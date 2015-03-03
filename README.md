@@ -5,6 +5,7 @@ Things a programmer should know about networking.
 ## Table of Contents
 - [DNS](#dns)
 - [ip address](#ip-address)
+- [name server](#name-server)
 - [network](#network)
 - [packet](#packet)
 - [port](#port)
@@ -17,6 +18,9 @@ An internet service that translates domain names into IP addresses. Abbreviation
 
 ### ip address
 An identifier for a computer or device on a TCP/IP network.
+
+### name server
+A web server that translates names from one form to another.
 
 ### network
 A group of two or more computers linked together.
