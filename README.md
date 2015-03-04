@@ -4,6 +4,7 @@ Things a programmer should know about networking.
 
 ## Table of Contents
 - [DNS](#dns)
+- [domain name](#domain-name)
 - [ip address](#ip-address)
 - [name server](#name-server)
 - [network](#network)
@@ -15,6 +16,9 @@ Things a programmer should know about networking.
 
 ### DNS
 An internet service that translates domain names into IP addresses. Abbreviation of Domain Name System.
+
+### domain name
+A reference to one or more IP addresses.
 
 ### ip address
 An identifier for a computer or device on a TCP/IP network.
